@@ -2,3 +2,5 @@ version 0.0.1
   - initial release
 version 0.0.2
   - Added stop_and_standby support
+version 0.0.3
+  - fix for Kodi Matrix (update to python3)
